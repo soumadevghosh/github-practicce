@@ -1,2 +1,3 @@
 just another file created in the feature-1 branch to be pulled by the local repo
-This file was modified locally
+This file was modified locally (line modifed)
+this line is being added from feature-2 branch
